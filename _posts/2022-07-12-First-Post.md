@@ -1,4 +1,3 @@
-
 ---
 title: Obligatory First Post
 date: 2022-07-12 04:56:00 -0500 
