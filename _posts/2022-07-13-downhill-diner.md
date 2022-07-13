@@ -17,5 +17,5 @@ It took a moment for the diner's denizens to realize what the sound of a silence
 
 --- 
 
-Well, that was a fun little piece of constrained writing. I might have these characters show up in other stories. I think they're fun.
+Well, that was a fun little piece of constrained writing. The theme was "a riddle without an answer". Did you come up with one? I also might have these characters show up in other stories. I think they're fun.
 
