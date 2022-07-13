@@ -1,6 +1,6 @@
 ---
 title: Downhill Diner 
-date: 2022-07-13 09:46:00 -0400 
+date: 2022-07-13 13:46:00 -0400 
 categories: [Blog, Writing]
 tags: [ short story, writing, constrained writing ] # tag names are lowercase
 ---
