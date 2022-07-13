@@ -1,8 +1,8 @@
 ---
 title: Downhill Diner 
-date: 2022-07-13 09:46:00 -0500 
+date: 2022-07-13 09:46:00 -0400 
 categories: [Blog, Writing]
-tags: [ ] # tag names are lowercase
+tags: [ short story, writing, constrained writing ] # tag names are lowercase
 ---
 
 Clinking tableware, rubbery eggs and overcooked bacon, the sounds and scents filled the air.

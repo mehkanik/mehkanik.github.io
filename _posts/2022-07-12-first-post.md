@@ -1,6 +1,6 @@
 ---
 title: Obligatory First Post
-date: 2022-07-12 04:56:00 -0500 
+date: 2022-07-12 04:56:00 -0400 
 categories: [Blog] 
 tags: [writing, blogging] # tag names are lowercase
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hurrah, productivity
-date: 2022-07-12 21:03:00 -0500 
+date: 2022-07-12 21:03:00 -0400 
 categories: [Blog]
 tags: [ writing, progress ] # tag names are lowercase
 ---
