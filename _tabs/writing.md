@@ -1,10 +1,9 @@
 ---
 title: My Writing
 icon: fas fa-info-circle
-order: 4
+order: 1 
 ---
 
-As of right now, the only story I'm planning to work on is [The Cat with 39 Lives](https://mehkanik.github.io/C39), but there will be more soon!
+This is where I'll list my multi-chaptered stories later on in the future.
 
-<!--  > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
- {: .prompt-tip } -->
+As of right now, the only story I'm planning to work on is [The Cat with 39 Lives](https://mehkanik.github.io/C39), but that could change soon!
