@@ -1,6 +1,6 @@
 ---
 title:  Rules are for squares
-date: 2022-07-16 19:22:00 -0500 
+date: 2022-07-16 19:22:00 -0400 
 categories: [Blog]
 tags: [ writing, the rules of writing ] # tag names are lowercase
 ---
