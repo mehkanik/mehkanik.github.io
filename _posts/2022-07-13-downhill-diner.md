@@ -1,8 +1,8 @@
 ---
 title: Downhill Diner
 date: 2022-07-13 13:46:00 -0500 
-categories: [Blog, Writing]
-tags: [ short story, writing, constrained writing ] # tag names are lowercase
+categories: [Writing]
+tags: [ short story, riddle, constrained writing ] # tag names are lowercase
 ---
 
 Clinking tableware, rubbery eggs, and overcooked bacon, the sounds and scents filled the air.
@@ -17,5 +17,5 @@ It took a moment for the diner’s denizens to realize what the sound of a silen
 
 --- 
 
-Well, that was a fun little piece of constrained writing. I might have these characters show up in other stories. I think they're fun.
+Well, that was a fun little piece of constrained writing. The constraint was "a riddle without an answer". Did you come up with one? I also might have these characters show up in other stories. I think they're fun.
 
